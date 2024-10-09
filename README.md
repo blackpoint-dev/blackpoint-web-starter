@@ -5,6 +5,9 @@
 - Tailwind CSS
 - Configured for deployment to Cloudflare Pages with SSR support.
 
+## How to use
+To use this starter project, click the button `Use this template`, then `Create a new repository`.
+
 ##  Run the development server:
 ```bash
 npm run dev
