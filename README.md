@@ -1,9 +1,10 @@
 # Black Point Web Starter
+ Configured for deployment to Cloudflare Pages with SSR support.
 
 ## Stack
 - Next.js with TypeScript
 - Tailwind CSS
-- Configured for deployment to Cloudflare Pages with SSR support.
+- Cloudflare Pages hosting
 
 ## How to use
 To use this starter project, click the button `Use this template`, then `Create a new repository`.
